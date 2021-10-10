@@ -35,7 +35,7 @@ With high technical capabilities, ability to organize and coordinate, work under
 - Eclipse
 
 Contributions, issues, and feature requests are welcome!
-Give a follow if you like this projects!
+Give a follow if you like these projects!
 <!---
 ilantal321/ilantal321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
