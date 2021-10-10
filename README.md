@@ -1,5 +1,5 @@
 <h1 align="center">Ilan Tal Practical Software Engineer</h1>
-<p align="center">graduated with excellence 95.5 avg.</p>
+<p align="center">Graduated with excellence 95.5 avg.</p>
 <p>graduation certificate in WEB and Android App development from senior Division of the Personnel Training Bureau.</p>
 <p>
 I’m currently learning full stack development on Udemy.
