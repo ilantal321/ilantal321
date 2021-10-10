@@ -38,11 +38,6 @@ I have High technical capabilities, ability to organize and coordinate, work und
 - Visual Studio
 - Eclipse
 
-**Ilan Tal**
-
-- [Linkedin](linkedin.com/in/ilan-tal-a1a6981a3)
-- [Gmail](ilan.tal321@gmail.com)
-
 Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 <!---
