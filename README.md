@@ -1,10 +1,10 @@
 <h1 align="center">Ilan Tal Practical Software Engineer</h1>
-<p>graduated with excellence 95.5 avg.</p>
-<p>I have APP development in WEB and Android from A graduation certificate from senior Division of the Personnel Training Bureau.</p>
+<p align="center">graduated with excellence 95.5 avg.</p>
+<p>graduation certificate in WEB and Android App development from senior Division of the Personnel Training Bureau.</p>
 <p>
 I’m currently learning full stack development on Udemy.
-I’m looking to collaborate a junior developer position.
-I have High technical capabilities, ability to organize and coordinate, work under multitasking and crowded schedules and self-learning ability.
+Looking to collaborate a junior developer position.
+With High technical capabilities, ability to organize and coordinate, work under multitasking and crowded schedules and self-learning ability.
 </p>
 <h3>Knowledge at:</h3>
 <h6>WEB development:</h6>
