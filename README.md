@@ -3,7 +3,7 @@
 <p>Graduation certificate in WEB and Android App development from Senior Division of the Personnel Training Bureau.</p>
 <p>
 I’m currently learning full stack development on Udemy.
-Looking for junior developer position.
+Looking for a junior developer position.
 With high technical capabilities, ability to organize and coordinate, work under multitasking and crowded schedules and self-learning ability.
 </p>
 <h3>Knowledge at:</h3>
